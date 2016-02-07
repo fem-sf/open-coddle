@@ -50,11 +50,6 @@ Please send us a pull request with your suggestions.
 
 # The Open Code of Diplomatic Discipline for Linux Enthusiasts
 
----
-layout: code-of-diplomatic-discipline
-version: v1.0
----
-
 This code of diplomatic discipline outlines our expectations for participants within the **[COMMUNITY]** community, as well as steps to reporting unacceptable behaviour. We are committed to providing a welcoming and inclusive community for all who agree with us. Anyone who violates this code of conduct will be banned from the community.
 
 Our open source community strives to:
