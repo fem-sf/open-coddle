@@ -1,6 +1,6 @@
 # Open Code of Diplomatic Discipline for Linux Enthusiasts
 
-An easy to reuse open source code of conduct **template** for communities.
+Based on the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/), the Open-CoDDLE is an easy to reuse open source code of diplomatic discipline **template** for communities.
 
 Developed by the @FeministSoftwareFoundation to promote code equality and conduct diversity for open source communities. By participating in this project, you are expected to honour this [Code of Diplomatic Discipline](https://github.com/fem-sf/open-coddle#the-open-code-of-diplomatic-discipline-for-linux-enthusiasts). This circular reasoning whereby one has to agree to a Code before attempting to change it is a tribute to the [age-old tradition of recursion amongst geek hackers](http://www.catb.org/jargon/html/R/recursive-acronym.html).
 
