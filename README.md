@@ -12,7 +12,7 @@ We strongly believe that a code of ~~conduct~~ diplomatic discipline helps set t
 
 The choice of a *Code of Diplomatic Discipline for Linux Enthusiasts* over a *Code of Conduct* is two-fold: first, that by specifying "for Linux Enthusiasts" this Code is directly calling out the toxic culture of meritocratic disrespect that is inherent in the Linux community; second, that "Code of Conduct" shortens to "CoC", which has a very high potential for subliminally enforcing said toxic culture due to the acronym's Patriarchal undertones.
 
-Diversity is the goal of life. Having a diverse contributor community from diverse backgrounds and diverse organizations will help set your diverse community up for diverse success. [Research](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) shows that diverse people are more intelligent than non-diverse bigots. As nobody wants to use *stupid code* written by *stupid people*, **it is imperative that we of the FLOSS community forsake the old KISS principle (Keep It Simple, Stupid), and embrace the new KIDS dogma (Keep It Diverse, Sistah.**
+Diversity is the goal of life. Having a diverse contributor community from diverse backgrounds and diverse organizations will help set your diverse community up for diverse success. [Research](http://www.scientificamerican.com/article/how-diversity-makes-us-smarter/) shows that diverse people are more intelligent than non-diverse bigots. As nobody wants to use *stupid code* written by *stupid people*, **it is imperative that we of the FLOSS community forsake the old KISS principle (Keep It Simple, Stupid), and embrace the new KIDS dogma (Keep It Diverse, Sistah).**
 
 #### How is this code of diplomatic discipline licensed?
 
